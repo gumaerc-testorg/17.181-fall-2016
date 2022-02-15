@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 parent_title: Exams
+parent_type: CourseSection
 parent_uid: feb26a36-4914-103c-a3ef-21a5ba029d4f
 title: Midterm Exam
 uid: 222f2a65-9b17-2ebc-f1ee-bd340cb85a50
