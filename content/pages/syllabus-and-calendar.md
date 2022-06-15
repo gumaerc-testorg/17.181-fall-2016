@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This section contains the course syllabus, including course requirements,
+  course books, web sites, and calendar info.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus and Calendar
 uid: 3884215f-ef00-76ef-a74e-87ddb0e030b3
 ---
@@ -36,7 +37,7 @@ Stavins, Robert N., ed. _Economics of the Environment: Selected Readings_. 6th e
 
 Tainter, Joseph A. _The Collapse of Complex Societies (New Studies in Archaeology)_. Cambridge University Press, 1990. ISBN: 9780521386739. \[Preview with [Google Books](https://books.google.co.in/books?id=YdW5wSPJXIoC&printsec=frontcover&dq=The+Collapse+of+Complex+Societies&hl=en&sa=X&redir_esc=y#v=onepage&q=The%20Collapse%20of%20Complex%20Societies&f=false)\]
 
-For additional readings, see the table in the {{< resource_link e60aae92-0fbd-0a38-f822-103a375a7806 "Readings" >}} section.
+For additional readings, see the table in the {{% resource_link e60aae92-0fbd-0a38-f822-103a375a7806 "Readings" %}} section.
 
 Websites
 --------
@@ -55,9 +56,9 @@ Course Requirements
 *   Assignment (submit 10 websites for the [Global System for Sustainable Development](http://gssd.mit.edu/) (GSSD) database (20%)
 *   Final (take home) or a research paper on topic of your choice with the approval of the instructor (35%)
 
-For details on the GSSD database assignment, see the {{< resource_link 24190324-3b14-a9fc-16b9-5c11e74e1f4d "Assignments" >}} section.
+For details on the GSSD database assignment, see the {{% resource_link 24190324-3b14-a9fc-16b9-5c11e74e1f4d "Assignments" %}} section.
 
-For details on the midterm and final exams, see the {{< resource_link feb26a36-4914-103c-a3ef-21a5ba029d4f "Exams" >}} section.
+For details on the midterm and final exams, see the {{% resource_link feb26a36-4914-103c-a3ef-21a5ba029d4f "Exams" %}} section.
 
 Calendar
 --------

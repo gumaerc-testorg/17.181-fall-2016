@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the midterm exam questions.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
