@@ -6,6 +6,7 @@ file: /courses/17-181-sustainability-political-economy-science-and-policy-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: '17.181F16 Sustainability: Lecture Slides 5 - Global System for Sustainab
 uid: 7794c763-4965-1923-0d6c-be93f7d60fbb
 ---
 This resource contains information regarding sustainability: political economy, science, and policy: Global system for sustainable development.
-
