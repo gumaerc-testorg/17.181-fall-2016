@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains the readings for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: e60aae92-0fbd-0a38-f822-103a375a7806
 ---
@@ -224,7 +228,7 @@ Barzel, Yoram. "The Property Rights Model." Chapter 1 in _Economic Analysis of P
 
 ———. "The Old Firm and the New Organization." Chapter 5 in _Economic Analysis of Property Rights (Political Economy of Institutions and Decisions)_. 2nd edition. Cambridge University Press, 1997. ISBN: 9780521597135. \[Preview with [Google Books](http://books.google.com/books?id=UIfxgF4qqAwC&pg=PA65=onepage)\]
 
-Choucri, Nazli. "Population and the Global Environment." In _Energy and the Environment in the 21st Century_. Edited by Jefferson W. Tester. MIT Press, 1991. ISBN: 9780262200783.
+Choucri, Nazli. "Population and the Global Environment." In _Energy and the Environment in the 21{{< sup "st" >}} Century_. Edited by Jefferson W. Tester. MIT Press, 1991. ISBN: 9780262200783.
 
 ### Essential
 
@@ -440,7 +444,7 @@ Røpke, Inge. "[Trade, Development and Sustainability—A Critical Assessment of
 
 \[ST\] Kelman, Steven. Chapter 14: Cost-Benefit Analysis: An Ethical Critique.
 
-Goldman, Patti A. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Resolving the Trade and Environment Debate: In Search of a Neutral Forum and Neutral Principles." (PDF - 1.4MB)](http://scholarlycommons.law.wlu.edu/cgi/viewcontent.cgi?article=1902&context=wlulr) _Washington & Lee Law Review_ 49, no. 4 (1992): 1279–98.
+Goldman, Patti A. ["Resolving the Trade and Environment Debate: In Search of a Neutral Forum and Neutral Principles." (PDF - 1.4MB)](http://scholarlycommons.law.wlu.edu/cgi/viewcontent.cgi?article=1902&context=wlulr) _Washington & Lee Law Review_ 49, no. 4 (1992): 1279–98.
 
 ### Essential
 

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains the course midterm and final exams.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: feb26a36-4914-103c-a3ef-21a5ba029d4f
 ---
@@ -33,7 +37,7 @@ Regarding length, please use your judgment, but we suggest no less than 4 pages 
 
 Finally, please make sure that the first and last paragraphs of your essays are coherent and related to each other. It would be a simple reminder that you are retaining your chosen focus.
 
-[Midterm Exam]({{< baseurl >}}/pages/exams/midterm-exam)
+{{% resource_link 222f2a65-9b17-2ebc-f1ee-bd340cb85a50 "Midterm Exam" %}}
 
 Final Exam Instructions
 -----------------------
@@ -55,4 +59,4 @@ For general points, please note that you need the author's name; for specific po
 *   Make sure that the _first and last_ paragraphs of your essays are coherent and related to each other.
 *   It is often useful to do an _outline_ before writing.
 
-[Final Exam]({{< baseurl >}}/pages/exams/final-exam)
+{{% resource_link 4d242d42-98f3-2158-5a84-bcfb04446626 "Final Exam" %}}
