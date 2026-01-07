@@ -26,34 +26,34 @@ Course Overview
 
 This course examines alternative conceptions and theoretical underpinnings of sustainable development. It focuses on the sustainability problems of industrial countries, and of developing states and economies in transition. It also explores the sociology of knowledge regarding sustainability, the economic and technological dimensions, and institutional imperatives, along with implications for political constitution of economic performance.
 
-17.181 fulfills the undergraduate public policy requirement in the Political Science {{% resource_link "208c9281-1691-4331-9513-846b1f7f8bd7" "major" %}} and {{% resource_link "9da7f199-24ac-45ab-ba29-551da1f0c039" "minor" %}}. Graduate students are expected to explore the subject in greater depth through reading and individual research.
+17.181 fulfills the undergraduate public policy requirement in the Political Science [major](http://web.mit.edu/polisci/undergraduate/major/index.html) and [minor](http://web.mit.edu/polisci/undergraduate/minor/index.html). Graduate students are expected to explore the subject in greater depth through reading and individual research.
 
 List of Course Books
 --------------------
 
-{{% resource_link "e1a50958-eb43-4936-acc3-18b4b42e8593" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Choucri, Nazli, ed. _Global Accord: Environmental Challenges and International Responses_. MIT Press, 1995. ISBN: 9780262531344. \[Preview with {{% resource_link "1a9c155d-19d8-407a-a4c4-37f1f8d7110a" "Google Books" %}}\]
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262531344) Choucri, Nazli, ed. _Global Accord: Environmental Challenges and International Responses_. MIT Press, 1995. ISBN: 9780262531344. \[Preview with [Google Books](http://books.google.com/books?id=DG_7yHCNRI0C&pg=PAfrontcover)\]
 
 Stavins, Robert N., ed. _Economics of the Environment: Selected Readings_. 6th edition. W. W. Norton & Company, 2012. ISBN: 9780393913408.
 
-Tainter, Joseph A. _The Collapse of Complex Societies (New Studies in Archaeology)_. Cambridge University Press, 1990. ISBN: 9780521386739. \[Preview with {{% resource_link "ee252064-538d-475a-bd96-fb0ae088432f" "Google Books" %}}\]
+Tainter, Joseph A. _The Collapse of Complex Societies (New Studies in Archaeology)_. Cambridge University Press, 1990. ISBN: 9780521386739. \[Preview with [Google Books](https://books.google.co.in/books?id=YdW5wSPJXIoC&printsec=frontcover&dq=The+Collapse+of+Complex+Societies&hl=en&sa=X&redir_esc=y#v=onepage&q=The%20Collapse%20of%20Complex%20Societies&f=false)\]
 
 For additional readings, see the table in the {{% resource_link e60aae92-0fbd-0a38-f822-103a375a7806 "Readings" %}} section.
 
 Websites
 --------
 
-{{% resource_link "12fb0592-9cff-4174-982a-2efe9ef17f1b" "Global System for Sustainable Development" %}}
+[Global System for Sustainable Development](http://gssd.mit.edu/)
 
-{{% resource_link "b4c1ab89-c1eb-468c-8682-406461471b29" "Sustainable Development Goals: 17 Goals to Transform Our World" %}}
+[Sustainable Development Goals: 17 Goals to Transform Our World](http://www.un.org/sustainabledevelopment/)
 
-{{% resource_link "537baa8e-4426-41aa-b6f1-4e23b31243fa" "World Summit on the Information Society (WSIS): Geneva 2003 - Tunis 2005" %}}
+[World Summit on the Information Society (WSIS): Geneva 2003 - Tunis 2005](http://www.itu.int/net/wsis/index.html)
 
 Course Requirements
 -------------------
 
 *   Class attendance participation (20% of final grade)
 *   Midterm (take home) (25%)
-*   Assignment (submit 10 websites for the {{% resource_link "12fb0592-9cff-4174-982a-2efe9ef17f1b" "Global System for Sustainable Development" %}} (GSSD) database (20%)
+*   Assignment (submit 10 websites for the [Global System for Sustainable Development](http://gssd.mit.edu/) (GSSD) database (20%)
 *   Final (take home) or a research paper on topic of your choice with the approval of the instructor (35%)
 
 For details on the GSSD database assignment, see the {{% resource_link 24190324-3b14-a9fc-16b9-5c11e74e1f4d "Assignments" %}} section.
